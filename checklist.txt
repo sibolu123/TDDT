@@ -1,4 +1,5 @@
 - Add better interface for vehicle timers (Done)
 - Include traffic light status for v2
 - Simulate real-world application
-- Speed up process by only processing within the aoi (or vicinity around it)
+- Speed up process by only processing within the aoi (or vicinity around it) (Done)
+- Try fix problem of missed detection with clipped image
