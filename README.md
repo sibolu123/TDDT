@@ -17,6 +17,7 @@ About 200 frames of vehicles were labelled by hand with coco-annotator and train
 # Important Parameters for traffic_timer
 
 Each point of the area of interest (aoi) needs to be labelled manually so the algorithm understands where to look for vehicles and where the STOP line is for the intersection. These points are also used to generate perspective index to normalize pixel movement for more accurate motion tracking.
+
 <img src="images/labels.png" width="800" />
 
 # Update Notes
