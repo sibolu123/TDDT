@@ -8,7 +8,7 @@ Version 1 simply tracks the most forward vehicle in each lane and calculates the
 <img src="images/Sample_frame_v1.JPG" width="800" />
 
 Version 2 on the other hand, tracks the n-most forward vehicles in each lane and tracks their motion individually. Each vehicle is given an ID and their individual motion buffer, and their timers are displayed at the top of frame (of course, these numbers are ultimately to be exported to traffic management system for dynamic traffic light control).
-<img src="images/Sample_frame.JPG" width="800" />
+<img src="images/Sample_frame_2.JPG" width="800" />
 
 # Training the model
 
